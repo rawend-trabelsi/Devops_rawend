@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 bonjour rawend dsi32
 21 ans 
-<<<<<<< HEAD
-=======
 bonjour rawend
 nabeul
->>>>>>> feature1
-=======
+feature1
 f2
->>>>>>> feature2
+feature2
